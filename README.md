@@ -12,3 +12,9 @@ Commit our changes
 
 ## Step 4
 Push our changes.
+
+## Step 5
+Issue a pull request
+
+## Step 6
+Merge pull request if satisfied with new code.
